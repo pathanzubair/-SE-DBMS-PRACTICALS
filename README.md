@@ -1,4 +1,4 @@
 # -SE-DBMS-PRACTICALS
 Flow of commands used in the DBMS Practical
-<br>Author - Zubair Pathan
+<br>Author - Zubair (IT BRANCH)
 
